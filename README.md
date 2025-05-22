@@ -2,7 +2,7 @@
 # Streamlit Training
 
 ### Status
-This project is for training purposes
+This project is for training purposes. It is based heavily on material taught on the [HSMA](https://hsma.co.uk/hsma_content/modules/current_module_details/7_git_and_web_development.html).
 
 ### About the project
 Contains 3 examples of streamlit web apps, a one page app, a multipage app and a simulation app.
@@ -19,6 +19,8 @@ There is one folder for each streamlit app
 
 In order to run each app, in the terminal move into the relevant folder (using cd foldername)
 and use `streamlit run filename` (where filename is the page you want to run).
+
+For more information on deploying apps to streamlit community cloud (providing they contain no personal data or sensitive info) see chapter of [HSMA book](https://webapps.hsma.co.uk/streamlit_community_cloud.html)
 
 ### Built with
 Captured in environment.yml
