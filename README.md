@@ -17,6 +17,9 @@ There is one folder for each streamlit app
 * basic multipage - shows how to arrange content into multiple pages
 * simulation - takes the model from SimPy-1 and makes it into an app
 
+In order to run each app, in the terminal move into the relevant folder (using cd foldername)
+and use `streamlit run filename` (where filename is the page you want to run).
+
 ### Built with
 Captured in environment.yml
 
